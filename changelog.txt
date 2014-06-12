@@ -2,6 +2,9 @@
 1.新功能：thrift学习
 2.新功能：mongodb学习
 
+[studyandthink_1.0.0.1 2014-06-12 张春生]
+1.新功能：mongodb学习
+
 --备注分类
 1、新功能：
 2、Bug:
